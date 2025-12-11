@@ -335,25 +335,25 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title{
 
 @keyframes changeBg {
     0% {
-        background-image: url("/images/image1.jpg");
+        background-image: url("/images/image1.webp");
     }
     16% {
-        background-image: url("/images/image2.jpg");
+        background-image: url("/images/image2.webp");
     }
     33% {
-        background-image: url("/images/image3.jpg");
+        background-image: url("/images/image3.webp");
     }
     49% {
-        background-image: url("/images/image4.jpg");
+        background-image: url("/images/image4.webp");
     }
     66% {
-        background-image: url("/images/image5.jpg");
+        background-image: url("/images/image5.webp");
     }
     83% {
-        background-image: url("/images/image6.JPG");
+        background-image: url("/images/image6.webp");
     }
     100% {
-        background-image: url("/images/image8.JPG");
+        background-image: url("/images/image8.webp");
     }
 }
 .banner_section   { 
@@ -416,7 +416,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title{
 }
 
 section.clients_section{
-       background-image: url(../images/bg_img1.jpg);
+       background-image: url(../images/bg_img1.webp);
     background-attachment: fixed;
     padding: 5rem 0 0 0;
     width: 100%;
@@ -664,7 +664,7 @@ animation: elementoranimate 1s infinite alternate ease-in-out;
 
 
 .FC_section{
-    background-image: url(../images/bg_img3.png);
+    background-image: url(../images/bg_img3.webp);
     background-attachment: fixed;
     padding: 5rem 0 0 0;
     width: 100%;
@@ -816,7 +816,7 @@ animation: elementoranimate 1s infinite alternate ease-in-out;
 }
 /*---footer--css----*/
 footer{
-    background-image: url(../images/bg_img4.jpeg);
+    background-image: url(../images/bg_img4.webp);
     background-attachment: fixed;
     padding: 5rem 0 0 0;
     width: 100%;
@@ -875,7 +875,7 @@ button {
     padding: 4rem 0;
 }
 .internalBS{
-    background-image: url(../images/internalbgtop_img.jpg);
+    background-image: url(../images/internalbgtop_img.webp);
     background-size: cover;
     height: 100%;
     background-repeat: no-repeat;
